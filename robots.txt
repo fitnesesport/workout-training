@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://fitnesesport.github.io/workout-training/sitemapx.xml
